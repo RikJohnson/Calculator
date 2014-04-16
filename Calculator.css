@@ -43,6 +43,10 @@ block {
     font-family:"Lucida Console", Verdana, Arial;
 }
 
+.numberButton:hover {
+    background-color:red;
+}
+
 #close {
     float : right;
     margin-right: 5%;
